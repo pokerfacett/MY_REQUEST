@@ -30,27 +30,27 @@ Link Layer Data
 
 dmesg.log
 `
-[  584.475344] Bluetooth: Peer acked invalid packet
-[  584.480585] Bluetooth: Peer acked invalid packet
-[  584.501450] Bluetooth: Peer acked invalid packet
-[  584.533039] Bluetooth: Peer acked invalid packet
-[  584.564637] Bluetooth: Peer acked invalid packet
-[  584.596220] Bluetooth: Peer acked invalid packet
-[  584.627825] Bluetooth: Peer acked invalid packet
-[  584.659400] Bluetooth: Peer acked invalid packet
-[  584.690988] Bluetooth: Peer acked invalid packet
-[  584.721535] Bluetooth: hu c6761cc0 retransmitting 2 pkts
-[  584.722592] Bluetooth: Peer acked invalid packet
-[  584.733497] Bluetooth: Peer acked invalid packet
-[  584.739112] Bluetooth: Peer acked invalid packet
-[  584.765247] Bluetooth: Peer acked invalid packet
-[  584.796834] Bluetooth: Peer acked invalid packet
-[  584.828433] Bluetooth: Peer acked invalid packet
-[  584.860023] Bluetooth: Peer acked invalid packet
-[  584.891611] Bluetooth: Peer acked invalid packet
-[  584.923200] Bluetooth: Peer acked invalid packet
-[  584.954778] Bluetooth: Peer acked invalid packet
-[  584.986387] Bluetooth: Peer acked invalid packet
+  [  584.475344] Bluetooth: Peer acked invalid packet
+  [  584.480585] Bluetooth: Peer acked invalid packet
+  [  584.501450] Bluetooth: Peer acked invalid packet
+  [  584.533039] Bluetooth: Peer acked invalid packet
+  [  584.564637] Bluetooth: Peer acked invalid packet
+  [  584.596220] Bluetooth: Peer acked invalid packet
+  [  584.627825] Bluetooth: Peer acked invalid packet
+  [  584.659400] Bluetooth: Peer acked invalid packet
+  [  584.690988] Bluetooth: Peer acked invalid packet
+  [  584.721535] Bluetooth: hu c6761cc0 retransmitting 2 pkts
+  [  584.722592] Bluetooth: Peer acked invalid packet
+  [  584.733497] Bluetooth: Peer acked invalid packet
+  [  584.739112] Bluetooth: Peer acked invalid packet
+  [  584.765247] Bluetooth: Peer acked invalid packet
+  [  584.796834] Bluetooth: Peer acked invalid packet
+  [  584.828433] Bluetooth: Peer acked invalid packet
+  [  584.860023] Bluetooth: Peer acked invalid packet
+  [  584.891611] Bluetooth: Peer acked invalid packet
+  [  584.923200] Bluetooth: Peer acked invalid packet
+  [  584.954778] Bluetooth: Peer acked invalid packet
+  [  584.986387] Bluetooth: Peer acked invalid packet
 `
 
 
