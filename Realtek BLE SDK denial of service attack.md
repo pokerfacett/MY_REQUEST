@@ -17,7 +17,7 @@ NULL
 # POC
 
 # Prove
-`
+```
 Link Layer Data
   Access Address: 0x9a328370
   CRC Init: 0x179a9c
@@ -51,7 +51,7 @@ dmesg.log
   [  584.923200] Bluetooth: Peer acked invalid packet
   [  584.954778] Bluetooth: Peer acked invalid packet
   [  584.986387] Bluetooth: Peer acked invalid packet
-`
+```
 
 
 # Workarounds
