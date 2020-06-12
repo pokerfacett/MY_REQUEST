@@ -23,7 +23,7 @@ NULL
 
 # For more information
 If you have any questions or comments about this advisory:
-Email us at qulewei@baidu.com
+Email us at weixiaocikett@gmail.com
 
 # Acknowledgements
 repoter :qulewei
