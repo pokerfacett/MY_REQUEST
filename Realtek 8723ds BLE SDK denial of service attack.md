@@ -187,13 +187,12 @@ Link Layer Data
   Interval: 0 (0 msec)
   Latency: 0
   Timeout: 50 (62.5 msec)
-`
-
+```
+![image](https://github.com/pokerfacett/CVE_REQUEST/raw/master/req_con_inteval.png)
 ![image](https://github.com/pokerfacett/CVE_REQUEST/blob/master/req_con_inteval.png)
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 dmesg.log
-`
+```
   [  584.475344] Bluetooth: Peer acked invalid packet
   [  584.480585] Bluetooth: Peer acked invalid packet
   [  584.501450] Bluetooth: Peer acked invalid packet
