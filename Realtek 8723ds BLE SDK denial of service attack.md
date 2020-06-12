@@ -190,6 +190,7 @@ Link Layer Data
 `
 
 ![image](https://github.com/pokerfacett/CVE_REQUEST/blob/master/req_con_inteval.png)
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
 
 dmesg.log
 `
@@ -222,7 +223,7 @@ dmesg.log
 
 # For more information
 If you have any questions or comments about this advisory:
-Email us at qulewei@baidu.com
+Email us at weixiaocikett@gmail.com
 
 # Acknowledgements
 repoter :qulewei
