@@ -189,7 +189,6 @@ Link Layer Data
   Timeout: 50 (62.5 msec)
 ```
 ![image](https://github.com/pokerfacett/CVE_REQUEST/raw/master/req_con_inteval.png)
-![image](https://github.com/pokerfacett/CVE_REQUEST/blob/master/req_con_inteval.png)
 
 dmesg.log
 ```
