@@ -16,7 +16,8 @@ result is：
 ![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/result_command_injection1.png)
 
 # Acknowledgements
-repoter :Lewei QU (曲乐炜) and Dongxiang Ke (柯懂湘)
+repoter :Lewei Qu(曲乐炜) and Dongxiang Ke(柯懂湘)
 
 # References
 https://www.zhipinmall.com/prodetail?id=1266#skuId=3020
+http://iot.10086.cn/
