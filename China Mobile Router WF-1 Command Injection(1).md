@@ -7,6 +7,11 @@ V1.0.1
 # POC
 ![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/ZRQos%20RCE.png)
 
+problem code：
+![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/set_online_client.jpg)
+
+result is：
+![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/result_command_injection1.png)
 
 # Acknowledgements
 repoter :Lewei QU (曲乐炜) and Dongxiang Ke (柯懂湘)
