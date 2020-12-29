@@ -1,5 +1,5 @@
 # Description
-China Mobile Router WF-1 V1.0.1 version interface /api/ZRQos/set_online_client accepts parameters through post, and the parameter ip field has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
+China Mobile Router WF-1 provide web interface /api/ZRQos/set_online_client which accepts parameters through post, and the parameter ip field has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
 
 # Affect Versions
 V1.0.1
