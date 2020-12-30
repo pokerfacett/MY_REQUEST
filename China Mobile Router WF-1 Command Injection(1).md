@@ -5,7 +5,7 @@ China Mobile Router WF-1 provide web interface /api/ZRQos/set_online_client whic
 V1.0.1
 
 # POC
-![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/ZRQos%20RCE.png)
+![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/ZQos%20RCE.png)
 
 problem code is in zrQos.lua which receive params from http request as follow：
 
