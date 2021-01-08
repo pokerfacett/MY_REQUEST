@@ -30,7 +30,7 @@ Check the configuration file again and find that listen_http_lan has become "aaa
 
 ![avatar](./picture/listen_http_lan_set_result.png)
 
-When the device is powered off and restarted, the device cannot access the management terminal normally, and the device needs to be reset before it can be used
+When the device is powered off and restarted, the device cannot access the webserver , and the device needs to be reset before it can be used
 
 ## Acknowledgements
 reporter:  Lewei QuDong and xiang Ke
