@@ -23,9 +23,9 @@ result of POC is：
 ![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/result_command_injection1.png)
 
 # Acknowledgements
-repoter :Lewei Qu(曲乐炜) and Dongxiang Ke(柯懂湘)
+repoter :Lewei Qu and Dongxiang Ke
 
 # References
-https://www.zhipinmall.com/prodetail?id=1266#skuId=3020
+https://www.ebuy7.com/item/china-mobile-wireless-router-qualcomm-qiki-wifi6-routing-mesh-network-home-5g-dual-frequency-double-gigabit-port-wall-wall-high-speed-%E2%80%8B%E2%80%8Bhigh-power-enhanced-dormitory-students-an-lianbao-wf-1-628692180620
 
-http://iot.10086.cn/
+http://iot.10086.cn/?l=en-us
