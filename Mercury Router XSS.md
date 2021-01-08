@@ -23,7 +23,7 @@ The result is as follows:
 ![avatar](./picture/get_xss_result.png)
 
 ## Acknowledgements
-reporter:  Lewei QuDong and xiang Ke
+reporter:  Lewei Qu and Dongxiang Ke
 
 ## References
 https://www.mercusys.com/en/
