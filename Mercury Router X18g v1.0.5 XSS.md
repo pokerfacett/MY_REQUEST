@@ -22,6 +22,8 @@ The result is as follows:
 
 ![avatar](./picture/get_xss_result.png)
 
+![avatar](./video/Murcury_Router_V1.0.1_Stored_XSS.mov)
+
 ## Acknowledgements
 reporter:  Lewei Qu and Dongxiang Ke
 
