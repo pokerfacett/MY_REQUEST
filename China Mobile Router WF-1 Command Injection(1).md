@@ -1,8 +1,8 @@
 # Background
-China Mobile WF-1 router is an AX1800 router based on Qualcomm's five-core processor. It adopts a new generation of 11AX technology, 2.4G and 5G dual-band concurrently, and can provide a wireless rate of 1800M, providing high-speed and stable WiFi coverage
+China Mobile An Lianbao WF-1 router is an AX1800 router based on Qualcomm's five-core processor. It adopts a new generation of 11AX technology, 2.4G and 5G dual-band concurrently, and can provide a wireless rate of 1800M, providing high-speed and stable WiFi coverage
 
 # Description
-China Mobile Router WF-1 provide web interface /api/ZRQos/set_online_client which receive parameters by POST request, and the parameter ip field has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
+China Mobile An Lianbao WF-1 router provide web interface /api/ZRQos/set_online_client which receive parameters by POST request, and the parameter ip field has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
 
 # Affect Versions
 V1.0.1
