@@ -8,19 +8,19 @@ China Mobile Router WF-1 provide web interface /api/ZRQos/set_online_client whic
 V1.0.1
 
 # POC
-![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/ZQos%20RCE.png)
+![image](./picture/ZQos%20RCE.png)
 
 problem code is in zrQos.lua which receive params from http request as follow：
 
-![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/set_online_client1.png)
+![image](./picture/set_online_client1.png)
 
 And param ip  not filtered and directly spliced into the command line parameters, causing command injection
 
-![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/set_online_client.jpg)
+![image](./picture/set_online_client.jpg)
 
 result of POC is：
 
-![image](https://github.com/pokerfacett/MY_REQUEST/blob/master/result_command_injection1.png)
+![image](./picture/result_command_injection1.png)
 
 # Acknowledgements
 repoter :Lewei Qu and Dongxiang Ke
