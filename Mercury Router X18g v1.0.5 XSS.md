@@ -22,7 +22,9 @@ The result is as follows:
 
 ![avatar](./picture/get_xss_result.png)
 
-![avatar](./video/Murcury_Router_V1.0.1_Stored_XSS.mov)
+The final output to the page is as follows:
+
+![avatar](./picture/xss_output.png)
 
 ## Acknowledgements
 reporter:  Lewei Qu and Dongxiang Ke
