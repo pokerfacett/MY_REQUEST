@@ -4,7 +4,7 @@ X18G is the latest wifi6 router from MERCUSYS Technologies, supports dual-band c
 
 ## Description
 
-The virtual server setting module of X18G param src_dport_start、src_dport_end、dest_port does not effectively filter when output to the page which could cause a Cross Site Scripting（XSS）.An attacker can exploit it to obtain sensitive information
+The virtual server setting module of X18G param src_dport_start、src_dport_end、dest_port does not effectively filter when output to the page which could cause a Stored Cross Site Scripting（XSS）.An attacker can exploit it to obtain sensitive information
 
 
 ## Affect Versions
