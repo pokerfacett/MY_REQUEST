@@ -27,5 +27,7 @@ repoter :Lewei Qu and Dongxiang Ke
 
 # References
 https://www.cnvd.org.cn/flaw/show/CNVD-2021-03520
+
 https://www.ebuy7.com/item/china-mobile-wireless-router-qualcomm-qiki-wifi6-routing-mesh-network-home-5g-dual-frequency-double-gigabit-port-wall-wall-high-speed-%E2%80%8B%E2%80%8Bhigh-power-enhanced-dormitory-students-an-lianbao-wf-1-628692180620
+
 http://iot.10086.cn/?l=en-us
